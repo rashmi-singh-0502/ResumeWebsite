@@ -1,0 +1,92 @@
+body
+{
+/*    border: 10px solid dodgerblue;*/
+    height: 100%;
+    margin: 0;
+    background-color: lightblue;
+}
+
+.intro-box
+{
+    width: 400px;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 30px;
+    display: inline-block;
+/*    border: 1px solid black;*/
+}
+
+img
+{
+    border-radius: 50%;
+    width: 200px;
+    margin-left: 50px;
+}
+
+p.name
+{
+    font-family: "Cambria";
+    margin-left: 20px;
+    font-size: 60px;
+    color: black;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 0;
+    text-align: center;
+}
+
+p.heading
+{
+    font-family: "Cambria";
+    margin-left: 20px;
+    font-size: 25px;
+    color: black;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 0;
+    top: 0;
+}
+
+.icon
+{
+    margin-left: 20px;
+    letter-spacing: 1.5px;
+    font-family: "Cambria";
+    margin-top: 0;
+}
+
+#intro
+{
+    color: darkblue;
+    font-size: 20px;
+    padding: 17px;
+}
+
+#edu
+{
+    font-size: 13px;
+}
+
+li
+{
+    padding: 17px;
+}
+
+.content
+{
+/*    border: 1px solid black;*/
+    height: 100%;
+    width: 850px;
+    display: inline-block;
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.edu
+{
+    letter-spacing: 1.5px;
+    font-family: "Cambria";
+    margin-top: 0;
+    margin-left: 0;
+}
